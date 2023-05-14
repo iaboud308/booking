@@ -3,7 +3,7 @@
 import React, { PropsWithChildren, createContext } from 'react';
 
 
-const endpoint = `http://localhost:3002`;
+const endpoint = `https://booking-server.hyderion.com`;
 
 
 
