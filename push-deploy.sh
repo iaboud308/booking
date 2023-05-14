@@ -14,7 +14,7 @@ ssh -T hyderion@hyderion.com <<-END
 cd software/booking-demo/booking
 git pull
 
-cp -r build /home/hyderion/nginx-docker/react-build/booking/build/
+cp -r build /home/hyderion/nginx-docker/react-build/booking/
 
 exit
 
