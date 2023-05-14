@@ -15,7 +15,7 @@ cd software/booking-demo/booking
 git pull
 
 
-cp build /home/hyderion/nginx-docker/react-build/booking/
+cp -r build /home/hyderion/nginx-docker/react-build/booking/build/
 
 
 
